@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1684940599 source:c:\c++\final project\res mang update 2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<stdexcept>
+
+1684940599 source:c:\bme 4th sem\c++\final project\res mang update 2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<stdexcept>
+
